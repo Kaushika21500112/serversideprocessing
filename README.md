@@ -146,6 +146,9 @@ urlpatterns = [
     path('',views.areacalculation,name="areaoftriangleroot")
 ]
 ```
+## SERVER LINK:
+[server link](http://kaushika.student.saveetha.in/)
+
 ## OUTPUT:
 ![](output1.png)
 ![](output2.png)
